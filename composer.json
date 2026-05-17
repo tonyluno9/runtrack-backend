@@ -2,7 +2,7 @@
     "name": "runtrack/backend",
     "description": "Backend para la app RunTrack",
     "require": {
-        "php": "^8.0",
+        "php": "^8.2",
         "ext-pdo": "*",
         "ext-pdo_mysql": "*"
     },
