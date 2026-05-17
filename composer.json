@@ -1,0 +1,14 @@
+{
+    "name": "runtrack/backend",
+    "description": "Backend para la app RunTrack",
+    "require": {
+        "php": "^8.0",
+        "ext-pdo": "*",
+        "ext-pdo_mysql": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    }
+}
